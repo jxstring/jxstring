@@ -1,26 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Alexander&fontSize=76&fontColor=EAF7FF&fontAlignY=45&desc=developer%20%2F%2F%20designer&descSize=17&descColor=C4E8FA&descAlignY=62&animation=fadeIn&color=0:07131C,25:102B3A,55:1D4A5E,75:2B6075,100:08151E" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:07131f,20:0d2535,45:183f52,70:0d2b3b,100:07131f&text=Alexander&fontSize=76&fontColor=eaf8ff&fontAlignY=42&desc=Software%20Developer%20%20%2F%20%20UI%20%26%20UX&descSize=17&descColor=a9d7ea&descAlignY=61&animation=twinkling"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=1800&color=9FDFFF&center=true&vCenter=true&width=560&height=28&lines=creating+software+with+character;engineering+meets+visual+design;always+building+something" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4200&pause=1400&color=BDEBFF&center=true&vCenter=true&width=720&height=35&lines=I+build+software%2C+interfaces+and+things+that+feel+alive.;Java+%2F+Python+%2F+TypeScript;Design+is+part+of+the+code." />
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/jxstring?style=flat-square&label=followers&labelColor=0B1B24&color=2C596B">
-<img src="https://img.shields.io/github/stars/jxstring?style=flat-square&label=stars&labelColor=0B1B24&color=2C596B">
-<img src="https://komarev.com/ghpvc/?username=jxstring&style=flat-square&label=views&color=2C596B&labelColor=0B1B24">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Alexander
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=4500&pause=2500&color=8DA9B8&center=true&vCenter=true&width=700&height=30&lines=Software+Developer+%C2%B7+UI%2FUX+Enthusiast+%C2%B7+Builder" />
+<img src="https://img.shields.io/github/followers/jxstring?label=followers&style=for-the-badge&labelColor=07131f&color=21485d"/>
+<img src="https://img.shields.io/github/stars/jxstring?label=stars&style=for-the-badge&labelColor=07131f&color=21485d"/>
+<img src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&label=profile%20views&color=21485d&labelColor=07131f"/>
 
 </div>
 
@@ -28,15 +16,29 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="58%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jxstring&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0B1B24&text_color=91AAB8&icon_color=BDEBFF&ring_color=9DDCFF">
+# Alexander
+
+I build software with a strong focus on **visual quality, usability and detail**.
+
+I enjoy moving between engineering and design rather than treating them as separate things.
+
+<br>
+
+**Web · Desktop · Tools · UI · Experiments**
+
+<br>
+
+<a href="https://github.com/jxstring?tab=repositories">
+<img src="https://img.shields.io/badge/explore%20my%20work-0b1d28?style=for-the-badge&logo=github&logoColor=e8f8ff&labelColor=0b1d28&color=17384a"/>
+</a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="42%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstring&hide_border=true&background=0B1B24&ring=9DDCFF&fire=E9FAFF&currStreakLabel=BDEBFF&sideLabels=91AAB8&dates=57717F&currStreakNum=E9FAFF&sideNums=BDEBFF">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jxstring&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=07131f&title_color=e8f8ff&text_color=86a8b8&icon_color=b9eaff&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
@@ -46,26 +48,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxstring&bg_color=07131C&color=7FA5B8&line=9DDCFF&point=EAF8FF&area=true&area_color=1C4658&hide_border=true&custom_title=ACTIVITY" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxstring&bg_color=07131f&color=79a9bd&line=9ddfff&point=eafaff&area=true&area_color=15394a&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstring&theme=nord_dark" width="96%">
-
-</div>
-
-<br>
+## What I work with
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="58"/>
 
 <br><br>
 
@@ -73,27 +69,41 @@
 
 <br>
 
-<sub>Applications · APIs · systems</sub>
+<sub>Applications & APIs</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48">
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="58"/>
 
 <br><br>
 
-<b>Frontend</b>
+<b>Web</b>
 
 <br>
 
-<sub>Interfaces · web · interaction</sub>
+<sub>Interfaces & applications</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="58"/>
+
+<br><br>
+
+<b>Automation</b>
+
+<br>
+
+<sub>Tools & experiments</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="58"/>
 
 <br><br>
 
@@ -101,7 +111,7 @@
 
 <br>
 
-<sub>UI · UX · visual systems</sub>
+<sub>UI & visual systems</sub>
 
 </td>
 
@@ -112,9 +122,271 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxstring&layout=donut-vertical&langs_count=7&hide_border=true&bg_color=07131C&title_color=DDF5FF&text_color=86A1AF" width="32%">
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,html,css,git,github,linux,figma&theme=dark&perline=12"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jxstring&theme=nord&no-frame=true&no-bg=true&margin-w=7&row=2&column=4" width="55%">
+</div>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## GitHub
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jxstring&layout=donut&hide_border=true&langs_count=8&bg_color=07131f&title_color=e8f8ff&text_color=86a8b8" width="100%"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstring&hide_border=true&background=07131f&ring=9ddfff&fire=e8f8ff&currStreakLabel=bdeaff&sideLabels=86a8b8&dates=557684&currStreakNum=e8f8ff&sideNums=d6f4ff" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstring&theme=nord_dark" width="96%"/>
+
+</div>
+
+<br>
+
+## Selected technology
+
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/Java-0a1b25?style=for-the-badge&logo=openjdk&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-0a1b25?style=for-the-badge&logo=python&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/TypeScript-0a1b25?style=for-the-badge&logo=typescript&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/JavaScript-0a1b25?style=for-the-badge&logo=javascript&logoColor=d9f5ff"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/React-0a1b25?style=for-the-badge&logo=react&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Node.js-0a1b25?style=for-the-badge&logo=node.js&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Linux-0a1b25?style=for-the-badge&logo=linux&logoColor=d9f5ff"/>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Figma-0a1b25?style=for-the-badge&logo=figma&logoColor=d9f5ff"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jxstring&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="94%"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9ddfff" width="88%"/>
+
+<br><br>
+
+# Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-07131f?style=for-the-badge&labelColor=07131f&color=21485d"/>
+
+### Software
+
+</div>
+
+Tools and applications built around ideas that are worth turning into working software.
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-07131f?style=for-the-badge&labelColor=07131f&color=21485d"/>
+
+### Interfaces
+
+</div>
+
+Interfaces where layout, motion and interaction matter as much as functionality.
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,html,css,react&theme=dark"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/03-07131f?style=for-the-badge&labelColor=07131f&color=21485d"/>
+
+### Experiments
+
+</div>
+
+Small ideas, prototypes and unusual projects that don't necessarily fit into one category.
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark" width="520"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+## Activity signal
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxstring&bg_color=07131f&color=7397a8&line=8edcff&point=eafaff&area=true&area_color=173b4d&hide_border=true&custom_title=" width="100%"/>
+
+</td>
+
+<td width="35%" valign="middle" align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jxstring&hide_title=true&hide_rank=false&show_icons=false&hide_border=true&bg_color=07131f&text_color=b9d4e0" width="100%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-0b1d28?style=for-the-badge&logo=github&logoColor=e8f8ff&labelColor=0b1d28&color=21485d"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## Currently
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/BUILDING-07131f?style=for-the-badge&labelColor=07131f&color=28556b"/>
+
+<br><br>
+
+Software
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/DESIGNING-07131f?style=for-the-badge&labelColor=07131f&color=28556b"/>
+
+<br><br>
+
+Interfaces
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/EXPLORING-07131f?style=for-the-badge&labelColor=07131f&color=28556b"/>
+
+<br><br>
+
+New ideas
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/LEARNING-07131f?style=for-the-badge&labelColor=07131f&color=28556b"/>
+
+<br><br>
+
+New tech
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -122,28 +394,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Alexander&fontSize=30&fontColor=DFF6FF&animation=twinkling&color=0:0A202C,50:1B4354,100:0A202C" width="70%">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Alexander&fontSize=38&fontColor=dff7ff&desc=jxstring&descSize=13&descColor=668797&animation=twinkling&color=00000000" width="70%"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/jxstring">
-<img src="https://img.shields.io/badge/GitHub-0B1B24?style=for-the-badge&logo=github&logoColor=EAF8FF">
+
+<img src="https://img.shields.io/badge/GitHub-07131f?style=for-the-badge&logo=github&logoColor=eaf8ff&labelColor=07131f&color=21485d"/>
+
 </a>
-&nbsp;
+
 <a href="https://www.figma.com/">
-<img src="https://img.shields.io/badge/Figma-0B1B24?style=for-the-badge&logo=figma&logoColor=EAF8FF">
-</a>
-&nbsp;
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-0B1B24?style=for-the-badge&logo=discord&logoColor=EAF8FF">
+
+<img src="https://img.shields.io/badge/Figma-07131f?style=for-the-badge&logo=figma&logoColor=eaf8ff&labelColor=07131f&color=21485d"/>
+
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&label=PROFILE&color=173A4B&labelColor=07131C">
-
-<br><br>
-
-<sub>Designed & built by Alexander</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:07131f,25:0d2535,50:1d4b60,75:0d2b3b,100:07131f&animation=twinkling" width="100%"/>
 
 </div>
