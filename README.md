@@ -1,17 +1,17 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuanhao%20Zhong&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Alexander%20Ford&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=17" />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware;Building+Agents+that+Think+%26+Act)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com/jxstring"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
     <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
     <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
-    <img src="https://img.shields.io/github/stars/zyh3699?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
+    <img src="https://img.shields.io/github/stars/jxstring?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
     <a href="https://github.com/zyh3699/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
     <a href="https://github.com/zyh3699/zyh3699.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website Template" /></a>
   </p>
@@ -34,9 +34,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jxstring&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jxstring&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jxstring&theme=tokyonight" width="33%" />
 </div>
 
 
