@@ -6,61 +6,108 @@
 
   <p align="center">
     <a href="https://github.com/jxstring">
-      <img src="https://img.shields.io/badge/GitHub-jxstring-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img
+        src="https://img.shields.io/badge/GitHub-jxstring-100000?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+      />
     </a>
 
-    <img src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&color=7C3AED&label=VIEWS"
+      alt="Profile views"
+    />
 
-    <img src="https://img.shields.io/github/stars/jxstring?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS" alt="Stars"/>
+    <img
+      src="https://img.shields.io/github/stars/jxstring?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117&label=STARS"
+      alt="Stars"
+    />
   </p>
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width="30"
+    height="30"
+    style="vertical-align: middle;"
+  />
   Skills & Tools
 </h2>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,jsx,html,css,linux,git,github,docker&perline=11" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,ts,js,jsx,html,css,linux,git,github,docker&perline=11"
+    alt="Skills and tools"
+  />
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img
+    src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"
+    width="30"
+    height="30"
+    style="vertical-align: middle;"
+  />
   Contributions
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle;"/>
+  <img
+    src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif"
+    width="30"
+    height="30"
+    style="vertical-align: middle;"
+  />
 </h2>
 
 <div align="center">
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jxstring&theme=tokyonight"
-    width="33%"
+    width="32%"
+    alt="GitHub statistics"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jxstring&theme=tokyonight"
-    width="33%"
+    width="32%"
+    alt="Repositories by language"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jxstring&theme=tokyonight"
-    width="33%"
+    width="32%"
+    alt="Most used commit languages"
   />
 
 </div>
 
+<br>
+
 <h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle;"/>
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="30"
+    width="30"
+    style="vertical-align: middle;"
+  />
   GitHub Activity
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30px" width="30px" style="vertical-align: middle;"/>
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="30"
+    width="30"
+    style="vertical-align: middle;"
+  />
 </h2>
 
 <div align="center">
 
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/jxstring/jxstring/output/github-contribution-grid-snake-dark.svg"
@@ -72,20 +119,39 @@
     />
 
     <img
-      alt="GitHub contribution grid snake animation"
       src="https://raw.githubusercontent.com/jxstring/jxstring/output/github-contribution-grid-snake-dark.svg"
       width="100%"
+      alt="GitHub contribution snake"
     />
+
   </picture>
+
+</div>
+
+<br>
+
+<div align="center">
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstring&theme=tokyonight"
     width="100%"
+    alt="GitHub profile details"
   />
 
+</div>
+
+<br>
+
+<h2 align="center">
+  3D Contribution Graph
+</h2>
+
+<div align="center">
+
   <img
-    src="https://raw.githubusercontent.com/jxstring/jxstring/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
     width="100%"
+    alt="3D GitHub contribution graph"
   />
 
 </div>
@@ -98,7 +164,10 @@
 
 </div>
 
+<br>
+
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling"
   width="100%"
+  alt=""
 />
