@@ -1,24 +1,24 @@
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:050505&text=Alexander&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn&desc=software%20developer%20%2F%20designer&descAlignY=68&descSize=16&descColor=8b8b8b" width="100%">
-</a>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=JXSTRING&fontSize=62&fontColor=EAF6FF&fontAlignY=42&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%2F%20INTERFACE%20BUILDER&descSize=13&descColor=A8C1D1&descAlignY=60&color=0:02070C,35:07151F,70:0D2635,100:061018" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=8B8B8B&center=true&vCenter=true&width=600&lines=building+software+%26+interfaces;Java+%7C+Python+%7C+TypeScript;turning+ideas+into+working+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1800&color=BFE8FF&center=true&vCenter=true&width=620&height=30&lines=Java+%C2%B7+Python+%C2%B7+TypeScript;engineering+%2B+design;creating+things+worth+using" />
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=followers&style=flat-square&color=181818&labelColor=080808">
+<a href="https://github.com/jxstring">
+<img src="https://img.shields.io/github/followers/jxstring?style=for-the-badge&label=FOLLOWERS&labelColor=07131C&color=163142">
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=181818&labelColor=080808">
+<a href="https://github.com/jxstring?tab=repositories">
+<img src="https://img.shields.io/github/stars/jxstring?style=for-the-badge&label=STARS&labelColor=07131C&color=163142">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=181818&label=views">
+<img src="https://komarev.com/ghpvc/?username=jxstring&style=for-the-badge&label=VISITORS&color=163142&labelColor=07131C">
 
 </div>
 
@@ -26,25 +26,23 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ## Alexander
 
-I build software, interfaces and developer tools.
+Software developer focused on building **clean software and sharp interfaces**.
 
-My work usually sits somewhere between engineering and design.
+I work across web, desktop and developer tooling, with a particular interest in the space where engineering meets visual design.
 
 <br>
 
-**Currently focused on**
-
-`Full-Stack` `Desktop` `Developer Tools` `UI/UX` `AI`
+`JAVA` `PYTHON` `TYPESCRIPT` `JAVASCRIPT`
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=ffffff&text_color=777777&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api?username=jxstring&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=07131C&title_color=DDF4FF&text_color=8FA8B7&icon_color=BFE8FF&rank_icon=github">
 
 </td>
 </tr>
@@ -54,388 +52,191 @@ My work usually sits somewhere between engineering and design.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=777777&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxstring&bg_color=07131C&color=8FA8B7&line=BFE8FF&point=EAF8FF&area=true&hide_border=true&custom_title=ACTIVITY" width="100%">
 
 </div>
 
 <br>
 
-## Selected work
+## Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,nodejs,git,github,linux,figma&theme=dark&perline=6">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-07131C?style=flat-square&logo=openjdk&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/Python-07131C?style=flat-square&logo=python&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/TypeScript-07131C?style=flat-square&logo=typescript&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/JavaScript-07131C?style=flat-square&logo=javascript&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/React-07131C?style=flat-square&logo=react&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/Node.js-07131C?style=flat-square&logo=node.js&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/Linux-07131C?style=flat-square&logo=linux&logoColor=BFE8FF">
+<img src="https://img.shields.io/badge/Figma-07131C?style=flat-square&logo=figma&logoColor=BFE8FF">
+
+</div>
+
+<br>
 
 <table>
 <tr>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency-systems-filled/96/BFE8FF/code.png" width="34">
+
+<br>
+
+**ENGINEERING**
+
+<br>
+
+<sub>Applications · APIs · tooling</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency-systems-filled/96/BFE8FF/layers.png" width="34">
+
+<br>
+
+**INTERFACE**
+
+<br>
+
+<sub>UI · UX · visual systems</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency-systems-filled/96/BFE8FF/sparkling.png" width="34">
+
+<br>
+
+**EXPERIMENTS**
+
+<br>
+
+<sub>Ideas · prototypes · concepts</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxstring&layout=donut&hide_border=true&langs_count=8&bg_color=07131C&title_color=DDF4FF&text_color=8FA8B7" width="45%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstring&hide_border=true&background=07131C&ring=BFE8FF&fire=EAF8FF&currStreakLabel=DDF4FF&sideLabels=8FA8B7&dates=607786&currStreakNum=EAF8FF&sideNums=DDF4FF" width="45%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jxstring&theme=nord_dark" width="100%">
+
+</div>
+
+<br>
+
+## Contribution flow
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jxstring&bg_color=02080D&color=7295A6&line=9DDCFF&point=E8F8FF&area=true&hide_border=true&custom_title=JXSTRING%20%2F%2F%20CONTRIBUTION%20FLOW" width="100%">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxstring&layout=compact&langs_count=6&hide_border=true&bg_color=07131C&title_color=DDF4FF&text_color=8FA8B7">
+
+</td>
 
 <td width="50%" valign="top">
 
-### MYCODEX
+### Streak
 
-<img src="https://dummyimage.com/900x420/090909/ffffff&text=MYCODEX" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxstring&hide_border=true&background=07131C&ring=9DDCFF&fire=E8F8FF&currStreakLabel=DDF4FF&sideLabels=7295A6&dates=4C6574&currStreakNum=E8F8FF&sideNums=DDF4FF">
 
-Developer tooling built around AI-assisted development, sessions, providers and local workflows.
+</td>
+</tr>
+</table>
 
 <br>
 
-`Linux` `TypeScript` `AI` `Developer Tools`
+<div align="center">
 
-<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=jxstring&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="92%">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/view%20project-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff">
+</div>
+
+<br>
+
+## A little corner of the internet
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<a href="https://github.com/jxstring">
+<img src="https://img.shields.io/badge/GITHUB-0A1720?style=for-the-badge&logo=github&logoColor=E8F8FF">
 </a>
 
 </td>
 
-<td width="50%" valign="top">
-
-### GRAVEWAY
-
-<img src="https://dummyimage.com/900x420/090909/ffffff&text=GRAVEWAY" width="100%">
-
-A collection of experimental software, interfaces and visual concepts.
-
-<br>
-
-`Design` `UI` `Web` `Experiments`
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/view%20project-ffffff?style=flat-square&logo=github&logoColor=000000&labelColor=ffffff">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,html,css,git,github,linux,figma&perline=12">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### Java
-
-<img src="https://img.shields.io/badge/-Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=ffffff">
-
-</td>
-
-<td width="25%" align="center">
-
-### Python
-
-<img src="https://img.shields.io/badge/-Python-0b0b0b?style=for-the-badge&logo=python&logoColor=ffffff">
-
-</td>
-
-<td width="25%" align="center">
-
-### TypeScript
-
-<img src="https://img.shields.io/badge/-TypeScript-0b0b0b?style=for-the-badge&logo=typescript&logoColor=ffffff">
-
-</td>
-
-<td width="25%" align="center">
-
-### JavaScript
-
-<img src="https://img.shields.io/badge/-JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=ffffff">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%">
-
-</div>
-
-<br>
-
-## GitHub metrics
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=050505&title_color=ffffff&text_color=777777&langs_count=8">
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=777777&dates=555555&currStreakNum=ffffff&sideNums=ffffff">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=666666&line=ffffff&point=ffffff&area=false&hide_border=true&custom_title=" width="100%">
-
-</div>
-
-<br>
-
-## Contribution map
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation">
-
-</div>
-
-<br>
-
-## Things I like building
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="42">
-
-<br><br>
-
-**Software**
-
-<br>
-
-Tools, applications and systems.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/ios-filled/100/ffffff/monitor.png" width="42">
-
-<br><br>
-
-**Interfaces**
-
-<br>
-
-Minimal interfaces with personality.
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/ios-filled/100/ffffff/rocket.png" width="42">
-
-<br><br>
-
-**Experiments**
-
-<br>
-
-Ideas that may become products.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&hide_border=true&bg_color=050505&title_color=ffffff&text_color=777777&layout=compact" width="75%">
-
-</div>
-
-<br>
-
-## Development environment
-
-<table>
-<tr>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" width="48">
-
-<br>
-
-Linux
-
-</td>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="48">
-
-<br>
-
-Git
-
-</td>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="48">
-
-<br>
-
-GitHub
-
-</td>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=figma" width="48">
-
-<br>
-
-Figma
-
-</td>
-
-<td width="20%" align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="48">
-
-<br>
-
-VS Code
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Currently
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-111111?style=for-the-badge&labelColor=050505&color=ffffff&logoColor=ffffff">
-
-<br><br>
-
-Developer tools
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-111111?style=for-the-badge&labelColor=050505&color=ffffff&logoColor=ffffff">
-
-<br><br>
-
-New frameworks
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/DESIGNING-111111?style=for-the-badge&labelColor=050505&color=ffffff&logoColor=ffffff&logoColor=ffffff">
-
-<br><br>
-
-Interfaces
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## Recent activity
-
-<!--START_SECTION:activity-->
-
-<table width="100%">
-<tr>
-<td width="70%">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&hide_border=true&bg_color=070707&title_color=ffffff&text_color=777777&icon_color=ffffff">
-</a>
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://github.com/DenverCoder1/DenverCoder1/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</td>
-</tr>
-</table>
-
-<!--END_SECTION:activity-->
-
-<br>
-
-## More than code
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark" width="500">
-
-</div>
-
-<br>
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff">
-</a>
+<td align="center" width="25%">
 
 <a href="https://www.figma.com/">
-<img src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=ffffff">
+<img src="https://img.shields.io/badge/FIGMA-0A1720?style=for-the-badge&logo=figma&logoColor=E8F8FF">
 </a>
+
+</td>
+
+<td align="center" width="25%">
 
 <a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-050505?style=for-the-badge&logo=discord&logoColor=ffffff">
+<img src="https://img.shields.io/badge/DISCORD-0A1720?style=for-the-badge&logo=discord&logoColor=E8F8FF">
 </a>
 
-</div>
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/jxstring?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-0A1720?style=for-the-badge&logo=github&logoColor=E8F8FF">
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:111111,100:050505" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=9DDCFF&section=footer" width="70%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=2500&color=607786&center=true&vCenter=true&width=500&height=24&lines=crafted+with+curiosity;powered+by+coffee+%26+code" />
+
+<br><br>
+
+<sub>Alexander · jxstring</sub>
 
 </div>
-
-<!--
-    Alexander
-    GitHub profile
-    Dark edition
--->
